@@ -181,10 +181,3 @@ pre code {
 {
     float: left;
 }
-.grid_element {
-  display: inline-block;
-  width: 480px;
-  height:318px;
-  zoom: 1;         /* for IE */
-  display*:inline; /* for IE */
-}
