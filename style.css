@@ -177,3 +177,7 @@ pre code {
 		page-break-inside: avoid;
 	}
 }
+.floated_img
+{
+    float: left;
+}
