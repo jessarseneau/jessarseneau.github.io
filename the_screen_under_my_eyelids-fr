@@ -1,0 +1,113 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>Jessica Arseneau</title>
+
+</head>
+
+
+
+
+<!-- Section Link Css -->
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+
+
+<!-- Section Contact aligné à droite -->
+
+
+
+<STYLE>A {text-decoration: none;} </STYLE>
+
+
+<body>
+
+<div style="float: right;">
+ <p align="right">
+ 
+
+<a   href="projet-fr.html" >   Travail</a>  &nbsp;
+<a   href="nouvelles-fr.html" >   Nouvelles</a>  &nbsp;
+<a   href="text-fr.html" >  Textes </a>  &nbsp;
+<a   href="assets/pdf/CV_J_Arseneau_fr_2016.pdf" target="_blank" >   CV</a> &nbsp;
+<a   href="demarche-fr.html" >   À propos</a> &nbsp;
+<a   href="contact-fr.html">   Contact</a> &nbsp;
+<a   href="http://jessarseneau.blogspot.ca" target="_blank">   Blog</a>
+
+ <br>  
+<a  href="field_of_depth-en.html" >EN</a> / <a  href="field_of_depth-fr.html" >FR</a>
+ 
+</p>  
+</div>
+
+
+<p></p>
+
+<!-- Section titre -->
+
+
+<h1>Jessica Arseneau   </h1> 
+
+<!--
+<p style="text-align:center;"> Portfolio!</p>
+ -->
+<!-- Section Vidéo -->
+
+<!--
+<p></p>
+
+<p><video width="100%" height="10%" controls loop autoplay>
+  <source src="video/nightlight_inspiration.mp4" type="video/mp4">
+  <source src="video/nightlight_inspiration.ogg" type="video/ogg">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video></p>
+
+-->
+
+<!-- Section Audio -->
+
+<!--
+<p>Expérimentation Sonore : [Sabrina Duval]<br/>
+<audio preload="auto" autobuffer controls loop autoplay>
+  <source src="audio/Enfance4bis.mp3" type="audio/mp3">
+  <source src="audio/Enfance4bis.ogg" type="audio/ogg">
+  Your browser does not support the audio tag.
+</audio></p>
+
+-->
+<br></br>
+<br></br>
+<br> <img src="2020-screen-eyelids1.jpg" alt="Screen under eyelids" height="468" width="850"> </br> <br></br>
+<br> <img src="2020-screen-eyelids2.jpg" alt="Screen under eyelids" height="567" width="850"> </br> <br></br>
+<br> <img src="2020-screen-eyelids3.jpg" alt="Screen under eyelids" height="567" width="850"> </br> <br></br>
+<br> <img src="2020-screen-eyelids4.jpg" alt="Screen under eyelids" height="567" width="850"> </br> <br></br>
+<br> <img src="2020-screen-eyelids.jpg" alt="Screen under eyelids" height="567" width="850"> </br> <br></br>
+<br> <img src="2020-screen-eyelids5.jpg" alt="Screen under eyelids" height="567" width="850"> </br> <br></br>
+<br> <img src="2020-screen-eyelids6.jpg" alt="Screen under eyelids" height="567" width="850"> </br> <br></br>
+<p>Installation views at Galerie Intershop, Leipzig<p/>
+
+
+
+ 
+<p><i>The Screen Under My Eyelids</i><p> 2020</p>
+    <p>3 vidéos numériques, 1 son stéréo, 1 impression giclée sur papier peint avec lumière projecteur, 2 textes en vinyle
+
+<br></br>
+<br></br>
+ Remerciements spéciaux :
+<p>Paula Abalos, Sabrina Asche, Anselm Benedikt Hötte, Prof. Joachim Blank, Prof. Dr. Beatrice von Bismarck, Wut Chalanant, Jennifer Demmel, Michael Ehritt, Elizabeth Gerdeman, Andreas Giesecke, Andrea Garcia Vasquez, Mandy Gehrt, Florian Krämer, Mario Kühne, Judith Lavagna, Bernadette Keating, Adrian Kleinlosen, Marie-Eve Levasseur, Kati Liebert, Michael Ludwig, Carsten Möller, Nico Nice, Dr. Michael Ohme, Max Schneider, Aaron Shoichet, Simon Thiou, Halle 14 Zentrum für Zeitgenössische Kunst, Galerie Kleindienst et Sheila Hugh Mackay Foundation. </p>
+
+<br></br>
+<br></br>
+<br></br>
+
+
+<br></br>
+<br></br>
+
+</body>
+</html>
