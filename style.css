@@ -11,7 +11,7 @@ blockquote {
 }
 
 h1 {
-	font-family: "Segoe UI", Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+	font-family: 'Segoe UI', Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
 	font-size: 24px;
 	font-style: normal;
 	font-variant: normal;
@@ -20,7 +20,7 @@ h1 {
 }
 
 body {
-	font-family: "Segoe UI", Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+	font-family: 'Segoe UI', Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
     line-height: 18px;
     color: #151515;
     background-color: #FFFFFF;
