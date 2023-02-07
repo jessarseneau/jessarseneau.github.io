@@ -5,7 +5,7 @@
     <title>Jessica Arseneau</title>
     
     <meta charset="UTF-8">
-  <meta name="viewport" content="width=600">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="Jessica Arseneau's work ranges from performative tactics, installations, moving and still images. She weaves source material taken from human interactions and gestures, stock image websites and found places. Sought is the fine line between the documented and its fiction, as human activities often operate in a narrative structure or are conducted by a reifying force. Landscapes, the social, the historical and the imaginary, are in constant alteration engendered by systems of representation.">
     
@@ -13,13 +13,20 @@
     
 </head>
 
-   <style>
+<style>
+/* For device width smaller than 400px: */
 body {
-  background: url(index_solaire_still.jpg);
   background-repeat: no-repeat;
-  background-size: 1280px 720px;
+  background-image: url('index_solaire_still_phoneratio.jpg'); 
 }
-</style>  
+
+/* For device width 400px and larger: */
+@media only screen and (min-device-width: 400px) {
+  body { 
+     background-image: url('index_solaire_still.jpg'); 
+  }
+}
+</style>
            <div style="text-align:center;">
         
 <h2>
