@@ -11,35 +11,35 @@ blockquote {
 }
 
 h1 {
-	font-family: 'Segoe UI', Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
-	font-size: 24px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
-	line-height: 26.4px;
+    font-family: 'Segoe UI', Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26.4px;
 }
 
 body {
-	font-family: 'Segoe UI', Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+    font-family: 'Segoe UI', Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
     line-height: 18px;
-    color: FFFFFF;
-    background-color: #000000;
+    color: #151515;
+    background-color: #FFFFFF;
     margin: 10px 13px 10px 13px;
     padding-bottom: 100px;
 }
 table {
-	margin: 10px 0 15px 0;
-	border-collapse: collapse;
+    margin: 10px 0 15px 0;
+    border-collapse: collapse;
 }
-td,th {	
-	border: 1px solid #ddd;
-	padding: 3px 10px;
+td,th { 
+    border: 1px solid #ddd;
+    padding: 3px 10px;
 }
 th {
-	padding: 5px 10px;	
+    padding: 5px 10px;  
 }
 a {
-    color: #0D0DE4;
+    color: #0B0B61;
 }
 a:hover {
     color: #76FF3A;
@@ -68,14 +68,14 @@ h1 {
     padding-top: 100px;
     margin-bottom: 50px;
     font-size: 30px;
-	margin-left: 50%;
+    margin-left: 50%;
     margin-right: auto;
 }
 h2 {
     padding-top: 100px;
     margin-bottom: 50px;
     font-size: 30px;
-	margin-left: 75%;
+    margin-left: 75%;
     margin-right: auto;
 }
 .h1 {
@@ -105,7 +105,7 @@ h4 {
 h5 {
 
     font-size: 14px;
-	margin-left: auto;
+    margin-left: auto;
     margin-right: auto;
      
 }
@@ -145,7 +145,7 @@ code, pre {
     font-family: Monaco, Andale Mono, Courier New, monospace;
 }
 code {
-	color: #ff4a14;
+    color: #ff4a14;
     padding: 1px 3px;
     font-size: 12px;
     -webkit-border-radius: 3px;
@@ -176,12 +176,12 @@ pre code {
     }
 }
 @media print {
-	body,code,pre code,h1,h2,h3,h4,h5,h6 {
-		color: black;
-	}
-	table, pre {
-		page-break-inside: avoid;
-	}
+    body,code,pre code,h1,h2,h3,h4,h5,h6 {
+        color: black;
+    }
+    table, pre {
+        page-break-inside: avoid;
+    }
 }
 .floated_img
 {
