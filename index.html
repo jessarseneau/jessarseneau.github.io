@@ -15,7 +15,8 @@
 
 <style>
 /* For devices smaller than 720px: */
-body {
+body 
+        {
   max-width: 100%;
   height: auto;
   background-image: url('index_solaire_still_phoneratio_16-9.jpg');
@@ -24,9 +25,9 @@ body {
 }
 
 /* For devices 720px and larger: */
-@media only screen and (min-width: 720px) {
+@media only screen and (min-device-width: 720px) {
   body {
-    max-width: 100%;
+    width: 100%;
     height: auto;
     background-image: url('index_solaire_still.jpg');
     background-repeat: no-repeat;
