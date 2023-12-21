@@ -1,46 +1,81 @@
-<!doctype html>    
+<!doctype html>
 <html>
 <head>
-
-    <title>Jessica Arseneau</title>
-    
     <meta charset="UTF-8">
-  <meta name="viewport" content="width=600">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Jessica Arseneau's work ranges from performative tactics, installations, moving and still images. She weaves source material taken from human interactions and gestures, stock image websites and found places. Sought is the fine line between the documented and its fiction, as human activities often operate in a narrative structure or are conducted by a reifying force. Landscapes, the social, the historical and the imaginary, are in constant alteration engendered by systems of representation.">
-    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Jessica Arseneau's artistic work">
+    <title>Jessica Arseneau</title>
     <link rel="stylesheet" type="text/css" href="style.css">
-    
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            font-size: 24px;
+            color: #fff;
+            text-align: center;
+            background: url('index_solaire_still.jpg') no-repeat center center;
+            background-size: cover;
+            height: 100vh;
+        }
+
+        div.text {
+            text-align: right;
+            position: absolute;
+            top: 45vh;
+            right: 10px;
+            width: 480px;
+        }
+
+        a {
+            color: white;
+            text-decoration: none;
+            display: block; /* Make links appear on separate lines */
+            margin-bottom: 10px; /* Increase space between links */
+        }
+
+        .footer {
+            position: sticky;
+            bottom: 30px;
+            margin: auto;
+            padding-top: 150px;
+            font-size: 18px;
+        }
+
+        .footer > div {
+            display: flex;
+            justify-content: space-around;
+        }
+
+        .footer > div a {
+            margin-top: 20px;
+            text-decoration: underline;
+        }
+
+        @media screen and (max-width: 640px) {
+            body {
+                font-size: 36px; /* Adjusted from 48px to prevent overlap */
+            }
+            .footer {
+                font-size: 24px; /* Adjusted from 36px */
+            }
+            div.text {
+                right: 5px; /* Adjust text alignment for smaller screens */
+            }
+        }
+    </style>
 </head>
-
-<style>
-/* For devices smaller than 720px: */
-body 
-        {
-  max-width: 100%;
-  height: auto;
-  background-image: url('index_solaire_still_phoneratio_16-9.jpg');
-  background-repeat: no-repeat;
-
-}
-
-/* For devices 720px and larger: */
-@media only screen and (min-device-width: 720px) {
-  body {
-    max-width: 100%;
-    height: auto;
-    background-image: url('index_solaire_still.jpg');
-    background-repeat: no-repeat;
-    background-size: 1280px 720px;
-  }
-}
-</style>
-           <div style="text-align:center;">
-        
-<h2>
-     <b>  <a href="projet-fr.html">FRAN&Ccedil;AIS</a></li>
-        <a href="projet-en.html">ENGLISH</a></li> </b> 
+<body>
+    <div class="text">
+        <a href="projet-fr.html">FRANÇAIS</a>
+        <br>
+        <a href="projet-en.html">ENGLISH</a>
     </div>
-</h2>
+    <div class="footer">
+        <div>
+            <!-- Footer content goes here -->
+        </div>
+    </div>
 </body>
 </html>
