@@ -204,11 +204,10 @@ pre code {
 }
 
 /* MEDIA QUERIES */
-@media screen and (min-width: 914px) {
-    body {
-        width: auto;
-        margin: 10px auto;
-    }
+@media screen and (min-width: 600px) {
+  #projects-page {
+    grid-template-columns: 1fr; /* one column on small screens */
+  }
 }
 
 @media print {
