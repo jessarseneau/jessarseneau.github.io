@@ -41,7 +41,8 @@ h6 { font-size: 13px; text-align: center; }
 
 /* PARAGRAPH */
 p {
-    margin-bottom: 1em;
+    margin-top: 0;
+  margin-bottom: 0.2em; /* or something smaller than default */
 }
 
 /* LINKS */
@@ -203,8 +204,17 @@ pre code {
   padding: 0;
 }
 
+#projects-page a img {
+  transition: opacity 2s ease; /* slow fade on hover */
+}
+
+#projects-page a img:hover {
+  opacity: 0.6;
+  transition: opacity 0s ease; /* immediate snap back when mouse leaves */
+}
+
 /* MEDIA QUERIES */
-@media screen and (min-width: 600px) {
+@media screen and (max-width: 600px) {
   #projects-page {
     grid-template-columns: 1fr; /* one column on small screens */
   }
@@ -217,4 +227,21 @@ pre code {
     table, pre {
         page-break-inside: avoid;
     }
+}
+
+
+.full-width-image {
+  width: 100vw;
+  margin: 0;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+.full-width-image img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
